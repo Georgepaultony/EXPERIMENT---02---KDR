@@ -36,7 +36,7 @@ Similaly fix target in the given position
 
 ## Output
 
-![Screenshot (1)](https://github.com/Georgepaultony/EXPERIMENT---02---KDR/assets/120088748/dfe94f23-3c44-4bfb-91a4-5a47d6c514f6)
+![Screenshot (4)](https://github.com/Georgepaultony/EXPERIMENT---02---Spatial-Descriptions-using-Robo-DK/assets/120088748/b1d31f73-55ee-425c-8da6-2765a7c45ecc)
 
 
 ## Results
